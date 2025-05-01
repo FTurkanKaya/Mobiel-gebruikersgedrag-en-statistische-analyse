@@ -1,4 +1,4 @@
-#Mobiel Gebruikersgedrag & Efficiëntie Analyse
+# Mobiel Gebruikersgedrag & Efficiëntie Analyse
 
 Dit project richt zich op het analyseren van het gedrag van mobiele gebruikers met als doel inzicht te krijgen in energie-efficiëntie en gebruikspatronen.
 
