@@ -12,11 +12,9 @@ Welke factoren correleren sterk met efficiëntie?
 
 ## Uitgevoerde Analyses:
 Efficiëntiescore berekening op basis van batterijverbruik en app-gebruik
-![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
-
 
 Boxplots per geslacht, leeftijdsgroep, OS en gedragsklasse
-![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
+![Efficiëntie visualisatie](https://github.com/FTurkanKaya/Mobiel-gebruikersgedrag-en-statistische-analyse/blob/master/Visualisatie/categorische.png)
 
 Correlatieanalyse tussen variabelen zoals schermtijd, appgebruik, data en batterijverbruik
 ![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
