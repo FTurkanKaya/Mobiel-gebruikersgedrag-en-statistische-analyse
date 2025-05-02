@@ -12,16 +12,23 @@ Welke factoren correleren sterk met efficiëntie?
 
 ## Uitgevoerde Analyses:
 Efficiëntiescore berekening op basis van batterijverbruik en app-gebruik
+![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
+
 
 Boxplots per geslacht, leeftijdsgroep, OS en gedragsklasse
+![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 Correlatieanalyse tussen variabelen zoals schermtijd, appgebruik, data en batterijverbruik
+![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 Gedragssegmentatieanalyse (5 klassen) om ‘power users’ te identificeren
+![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 Heatmaps om lineaire relaties visueel te maken
+![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 Toestelspecifieke analyse van de relatie tussen schermtijd en batterijverbruik
+![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 ## Belangrijkste inzichten:
 Geslacht en leeftijd hebben beperkte invloed op efficiëntie
