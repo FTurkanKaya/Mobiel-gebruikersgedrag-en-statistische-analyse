@@ -17,16 +17,14 @@ Boxplots per geslacht, leeftijdsgroep, OS en gedragsklasse
 ![Efficiëntie visualisatie](https://github.com/FTurkanKaya/Mobiel-gebruikersgedrag-en-statistische-analyse/blob/master/Visualisatie/categorische.png)
 
 Correlatieanalyse tussen variabelen zoals schermtijd, appgebruik, data en batterijverbruik
-![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 Gedragssegmentatieanalyse (5 klassen) om ‘power users’ te identificeren
-![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
 
 Heatmaps om lineaire relaties visueel te maken
 ![Efficiëntie visualisatie](https://github.com/FTurkanKaya/Mobiel-gebruikersgedrag-en-statistische-analyse/blob/master/Visualisatie/correlatie_heatmap.png)
 
 Toestelspecifieke analyse van de relatie tussen schermtijd en batterijverbruik
-![Efficiëntie visualisatie](https://github.com/jouwgebruikersnaam/jouwrepo/blob/main/images/plot.png?raw=true)
+![Efficiëntie visualisatie](https://github.com/FTurkanKaya/Mobiel-gebruikersgedrag-en-statistische-analyse/blob/master/Visualisatie/kde_age_appUsage.png)
 
 ## Belangrijkste inzichten:
 Geslacht en leeftijd hebben beperkte invloed op efficiëntie
